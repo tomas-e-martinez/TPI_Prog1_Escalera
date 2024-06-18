@@ -2,7 +2,6 @@
 #define FUNCIONES_H_INCLUDED
 
 #include <iostream>
-#include <conio.h>
 
 using namespace std;
 
